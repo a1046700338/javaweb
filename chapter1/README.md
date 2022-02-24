@@ -2,8 +2,8 @@
 ```
 *
 |-----javaweb
-| 			|-------chapter1
-|			|-------chapterxxx
+|           |-------chapter1
+|           |-------chapterxxx
 |
 |
 |------
