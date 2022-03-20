@@ -25,8 +25,8 @@ web学习库，存放各类html文件
 
 ```
 # 地址
-- ***Github***:https://sakurafeiyu.top/javaweb/ 或  http://a1046700338.github.io/javaweb/
-- ***Gitee***:http://sakurafeiyu.gitee.io/javaweb
+- **Github**:`https://sakurafeiyu.top/javaweb/ 或  http://a1046700338.github.io/javaweb/`
+- **Gitee**:`http://sakurafeiyu.gitee.io/javaweb`
 # 联系方式
 📫[Email me](mailto:sakurafeiyu666@163.com)|😸[MyGitHub](https://github.com/a1046700338)
 
