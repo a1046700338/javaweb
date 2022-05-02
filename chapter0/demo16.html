@@ -57,5 +57,30 @@
 	</head>
 	<body>
 		<h1>强制类型转换</h1>
+		<code>
+			/*
+			*parseInt(a,10),10表示进值
+			*/
+			var a = "070";
+			b = parseInt(a,10);
+			console.log(b);
+		</code>
+		<p>调用Boolean函数转换为布尔值</p>
+		<code>
+			/*字符串-->布尔，除了空字符串其余都是true
+			*对象也会转换为true
+			*除了0和NaN,其余都是true
+			*null和undefined都会转换为false
+			*/
+			var a = -127;
+			a = 127;
+			a = 0;
+			b = null;
+			b = Boolean(b);//false
+			c = undefined;
+			c = Boolean(c);//false
+			a = Boolean(a);
+			console.log(a);
+		</code>
 	</body>
 </html>
