@@ -1,7 +1,8 @@
-# 项目说明
+# 已经移动到了[新仓库](https://github.com/a1046700338/LearningRoute)
+## 项目说明
 这是一个存放本人学习web后进行练习的demo，为了便于管理和访问我将这些文件放到GitHub上来。  
 web学习库，存放各类html文件
-# 文件路径
+## 文件路径
 ```
 *
 |-----javaweb
